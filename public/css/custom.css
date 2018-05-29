@@ -1,0 +1,30 @@
+.footer {
+    width: 100%;
+    padding: 20px 15%;
+    background-color: #292b2c;
+    color: #fff !important;
+    margin-top: 30px;
+}
+
+.footer > .text-muted {
+    color: #fff!important; 
+}
+
+.footer-menu li {
+    list-style-type: none;
+    line-height: 33px;
+}
+
+ul.footer-menu {
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+
+.footer-menu li a {
+    color: #fff;
+}
+
+.footer-menu li a:hover {
+    text-decoration: none;
+}
